@@ -1,8 +1,8 @@
 # HBR-Damage-Simulation-issues
 Issues for HBR-Damage-Simulation - Firefox Version
 
-I will host the Firefox versions here for the time being. After it will be on the store.
+## **This is just a coversion 1:1 of the source code. Nothing was altered.**
 
+### All credits goes to the respective developer (chunibyocola) and the effort that went into it.
 
-This is a fork of https://github.com/chunibyocola/HBR-Damage-Simulation-issues
-All credits goes to the respective developer
+This repo has only a task that will produce in output the same extension but in the Firefox/Gecko format. Use it as you see fit.
